@@ -1,2 +1,2 @@
 # Banking-System
-Banking System using Python and Tkinter
+Banking System Software using Python and Tkinter
